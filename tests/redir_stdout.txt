@@ -1,0 +1,4 @@
+COMMANDE : echo "Hello Minishell" > test_out.txt
+
+SORTIE ATTENDUE : Rien à l'écran. 
+Un fichier test_out.txt est créé  avec le texte "Hello Minishell".

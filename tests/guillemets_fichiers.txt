@@ -1,0 +1,4 @@
+COMMANDE : touch "dossier secret.txt" (puis faire ls -l)
+
+SORTIE ATTENDUE : 
+Un seul fichier nommé "dossier secret.txt" est créé, et non pas deux fichiers "dossier" et "secret.txt".

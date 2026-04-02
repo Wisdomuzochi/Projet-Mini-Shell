@@ -1,0 +1,4 @@
+COMMANDE : ls /chemin_fantome 2> erreur.log
+
+SORTIE ATTENDUE : Rien à l'écran. 
+Le fichier erreur.log est créé et contient "ls: impossible d'accéder à '/chemin_fantome': Aucun fichier ou dossier de ce nom".

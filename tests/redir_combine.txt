@@ -1,0 +1,4 @@
+COMMANDE : sort -r < test_out.txt > tri.txt
+
+SORTIE ATTENDUE : 
+Rien à l'écran. Le shell lit test_out.txt, le trie à l'envers, et écrit le résultat dans tri.txt.

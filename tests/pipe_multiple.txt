@@ -1,0 +1,3 @@
+COMMANDE : cat mishell.c | grep "include" | wc -l
+
+SORTIE ATTENDUE : Le nombre de lignes contenant le mot "include" dans le fichier mishell.c .

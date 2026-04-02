@@ -1,0 +1,4 @@
+COMMANDE : ls mishell.c dossier_fantome > succes.txt 2> erreur.txt
+SORTIE ATTENDUE : Rien à l'écran. 
+Le fichier succes.txt contient "mishell.c" 
+Le fichier erreur.txt contient "ls: impossible d'accéder à 'dossier_fantome': Aucun fichier ou dossier de ce nom" .

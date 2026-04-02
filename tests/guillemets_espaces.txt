@@ -1,0 +1,3 @@
+COMMANDE : echo "Un deux trois   quatre"
+
+SORTIE ATTENDUE : Un deux trois   quatre

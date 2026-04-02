@@ -1,0 +1,4 @@
+COMMANDE : wc -w < test_out.txt
+
+SORTIE ATTENDUE : 2
+wc lit bien depuis le fichier généré au test "redir_stdout.txt" au lieu du clavier.

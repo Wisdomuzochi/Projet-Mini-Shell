@@ -1,0 +1,4 @@
+COMMANDE : ls -la | grep "\.c" > sources_c.txt
+
+SORTIE ATTENDUE : Rien à l'écran. 
+Le fichier sources_c.txt contient uniquement la liste détaillée des fichiers terminant par ".c".

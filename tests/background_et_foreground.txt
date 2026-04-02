@@ -1,0 +1,3 @@
+COMMANDE : sleep 4 & (puis taper immédiatement) echo "Coucou"
+
+SORTIE ATTENDUE : Affiche "Coucou" proprement et réaffiche le prompt, sans que l'affichage soit bloqué en arrière-plan.

@@ -1,0 +1,4 @@
+COMMANDE : cd 
+
+SORTIE ATTENDUE : 
+/home/nom_utilisateur

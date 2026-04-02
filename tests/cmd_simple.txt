@@ -1,0 +1,4 @@
+COMMANDE : ls -l -a
+
+SORTIE ATTENDUE : Affiche la liste détaillée de tous les fichiers  du répertoire courant. 
+Le prompt s'affiche ensuite normalement.

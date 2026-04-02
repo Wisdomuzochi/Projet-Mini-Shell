@@ -1,0 +1,3 @@
+COMMANDE : ls -1 | wc -l
+
+SORTIE ATTENDUE : Le nombre exact de fichiers et dossiers dans le répertoire courant.
